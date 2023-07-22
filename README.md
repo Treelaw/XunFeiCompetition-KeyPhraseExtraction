@@ -30,5 +30,6 @@
 ### 主要的API
 #### ngrams    
     短语生成, e.g. 2-grams: 2个单词构成的短语  
+    
 #### word_tokenize
     分词
