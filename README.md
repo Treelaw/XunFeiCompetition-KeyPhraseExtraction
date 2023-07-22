@@ -10,11 +10,11 @@
     使用逻辑回归进行二分类
   
 ### 主要的几个库
-----CountVectorizer详解
+#### CountVectorizer详解
     CountVectorizer是属于常见的特征数值计算类，是一个文本特征提取方法。对于每一个训练文本，它只考虑每种词汇在该训练文本中出现的频率。
     https://blog.csdn.net/weixin_38278334/article/details/82320307
 
-----逻辑回归（Logistic regression）
+#### 逻辑回归（Logistic regression）
     https://zhuanlan.zhihu.com/p/46941769
 
 
@@ -28,7 +28,7 @@
     step5: 保留词频最高的5个2-grams
 
 ### 主要的几个库
-----ngrams    
+#### ngrams    
     短语生成, e.g. 2-grams: 2个单词构成的短语  
-----word_tokenize
+#### word_tokenize
     分词
