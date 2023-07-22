@@ -9,7 +9,7 @@
     使用词袋法抽取句子特征向量
     使用逻辑回归进行二分类
   
-### 主要的几个库
+### 主要的API
 #### CountVectorizer详解
     CountVectorizer是属于常见的特征数值计算类，是一个文本特征提取方法。对于每一个训练文本，它只考虑每种词汇在该训练文本中出现的频率。
     https://blog.csdn.net/weixin_38278334/article/details/82320307
@@ -27,7 +27,7 @@
     step5: 保留2-grams词频大于1的部分
     step5: 保留词频最高的5个2-grams
 
-### 主要的几个库
+### 主要的API
 #### ngrams    
     短语生成, e.g. 2-grams: 2个单词构成的短语  
 #### word_tokenize
