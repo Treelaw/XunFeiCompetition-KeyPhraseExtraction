@@ -52,3 +52,8 @@
 #### Bert+ffn
 #### 主要思路
     Bert模型对文本的每个token生成向量，每个token位置接入ffn，对token进行二分类，判断其是否是关键词
+
+## 任务三：大模型应用
+### baseline1: 使用Chatglm2进行文本二分类
+
+### baseline2：使用Chatglm2进行关键词抽取
